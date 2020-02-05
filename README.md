@@ -1,10 +1,12 @@
 Kawaii
 -------
-In this lab you will use P5's graphics functions to depict a Kawaii character. You can access the full list of functions at [p5js.org/reference/](https://p5js.org/reference/). The most familiar Kawaii character may be Hello Kitty.   
+In this lab you will use P5's graphics functions to depict a Kawaii character. You can access the full list of functions at [p5js.org/reference/](https://p5js.org/reference/). The most familiar Kawaii character may be Hello Kitty. Use the instructions below as a guide in designing your own Kawaii character: 
 ![](Kawaii1.JPG)    
 ![](Kawaii2.JPG)    
 ![](Kawaii3.JPG)    
-![](Kawaii4.jpg)    
+![](Kawaii4.jpg)   
+
+Submit the URL for your finished project to Google Classroom.
 
 Samples of Student Work
 -----------------------
