@@ -4,7 +4,7 @@ In this lab you will use P5's graphics functions to depict a Kawaii character. Y
 ![](Kawaii1.JPG)    
 ![](Kawaii2.JPG)    
 ![](Kawaii3.JPG)    
-![](Kawaii4.jpg)   
+![](Kawaii4.JPG)   
 
 Submit the URL for your finished project to Google Classroom.
 
