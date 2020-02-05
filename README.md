@@ -4,9 +4,11 @@ In this lab you will use P5's graphics functions to depict a Kawaii character. Y
 ![](Kawaii1.JPG)    
 ![](Kawaii2.JPG)    
 ![](Kawaii3.JPG)    
-![](Kawaii4.JPG)    
+![](Kawaii4.jpg)    
+
+Samples of Student Work
+-----------------------
+None yet!   
 
 
-
-
-This lab was adapted from Chris Barrious' [Kawaii Character Assignment](https://docs.google.com/presentation/d/1PDTFHUDawHQqcy-0xr1BP7aRz37tE_1vwoR-HN5UwXo/edit?usp=sharing)
+*This lab was adapted from Chris Barrious' [Kawaii Character Assignment](https://docs.google.com/presentation/d/1PDTFHUDawHQqcy-0xr1BP7aRz37tE_1vwoR-HN5UwXo/edit?usp=sharing)*
