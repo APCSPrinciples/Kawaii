@@ -13,7 +13,7 @@ Optional: Rotating the arms
 ---------------------------
 Here's a basic figure with arms straight at the side.
 ![](KawaiiArms.JPG)   
-Notice that we are using `rectMode(CENTER)` so the left arm is center at (125,300). Rotations are always about the origin, so we first need to `translate(125,300)` to move the origin to the center of the left arm. Then we can `rotate(.1)` to rotate the left arm a small amount in the clockwise direction and draw the arm at the new origin (0,0). After draw the left arm, we need to "un-rotate" and "un-translate" in reverse order so that the rest of the drawing is unaffected.
+Notice that we are using `rectMode(CENTER)` so the left arm is centered at (125,300). Rotations are always about the origin, so we first need to `translate(125,300)` to move the origin to the center of the left arm. Then we can `rotate(.1)` to rotate the left arm a small amount in the clockwise direction and draw the arm at the new origin (0,0). After draw the left arm, we need to "un-rotate" and "un-translate" in reverse order so that the rest of the drawing is unaffected.
 ![](KawaiiArms2.JPG)   
 
 Samples of Student Work
