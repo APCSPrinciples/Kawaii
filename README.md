@@ -2,7 +2,7 @@ Kawaii Character
 -------
 In this lab you will use P5's graphics functions to depict a Kawaii character. The most familiar Kawaii character may be Hello Kitty. 
 ![](Kawaii1.JPG)    
-Use the instructions below as a guide in designing your own Kawaii character. You may also want to look at the full list of functions at [p5js.org/reference/](https://p5js.org/reference/).     
+Use the instructions below as a guide in designing your own Kawaii character. You will find the [rect()](https://p5js.org/reference/#/p5/rect), [circle()](https://p5js.org/reference/#/p5/circle) and [arc()](https://p5js.org/reference/#/p5/arc) functions useful. You may also want to look at the full list of functions at [p5js.org/reference/](https://p5js.org/reference/).     
 ![](Kawaii2.JPG)    
 ![](Kawaii3.JPG)    
 ![](Kawaii4.JPG)   
