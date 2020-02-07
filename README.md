@@ -18,6 +18,7 @@ Notice that we are using `rectMode(CENTER)` so the left arm is centered at (125,
 
 Samples of Student Work
 -----------------------
+[Curtis](https://editor.p5js.org/culee/present/2iKolRsh)   
 [Katelyn](https://editor.p5js.org/jizhang6/present/l4Pc-2Az)   
 
 
