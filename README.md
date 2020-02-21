@@ -18,8 +18,11 @@ Notice that we are using `rectMode(CENTER)` so the left arm is centered at (125,
 
 Samples of Student Work
 -----------------------
+[Bernice](https://editor.p5js.org/bernicelau430/present/h7h8YW2C)   
 [Curtis](https://editor.p5js.org/culee/present/2iKolRsh)   
-[Katelyn](https://editor.p5js.org/jizhang6/present/l4Pc-2Az)   
+[Nikhita](https://editor.p5js.org/Bluesnow/present/eET8BMk5)   
+[Katelyn](https://editor.p5js.org/jizhang6/present/l4Pc-2Az)    
+[Duan](https://editor.p5js.org/Duan25/present/aRUdSOkm)   
 
 
 *This lab was adapted from Chris Barrious' [Kawaii Character Assignment](https://docs.google.com/presentation/d/1PDTFHUDawHQqcy-0xr1BP7aRz37tE_1vwoR-HN5UwXo/edit?usp=sharing)*
